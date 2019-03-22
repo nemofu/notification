@@ -1,3 +1,14 @@
+                            Nota para instalar el servidor JSON LOCAL
+                                        ------------------------------------------ 
+Comando para instalar el servidor:
+                                     npm install json-server -g
+
+Comando para ejecutar el servidor:
+                                     json-server --watch db.json -p 3001 -d 2000
+
+Obs: Se tiene que ejecutar donde se encuentra 
+     alojado el base datos del servidor
+
 # notificaction
 
 ## Project setup
